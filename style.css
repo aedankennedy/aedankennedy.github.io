@@ -1,11 +1,20 @@
 body {
     background-color: #3f2f1f;
+    color: #00bfbf;
+    font-size: 24px;
+}
+p {
+    color: #00bfbf;
+    font-size: 24px;
 }
 h1 {
     color: #ff9f3f;
 }
+h2 {
+    color: #00bf5f;
+}
 a {
-    color: #00bf5f
+    color: #00bf5f;
 }
 hr {
     border: 2px solid #005f2f;
